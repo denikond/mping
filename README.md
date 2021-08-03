@@ -1,5 +1,4 @@
 # mping
 
-multiple ping utilite.
-in ip.txt should be ip addresses and FQDN, which you want to ping.
-
+multiple ping tool.
+in ip.txt should be ip addresses list or FQDN, which you want to ping.
